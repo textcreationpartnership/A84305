@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extract of all the passages from Hull, York, and Lincolnshire, being taken out of sundry letters, and sent by the last post. Being a true relation of His Maiesties proceedings in those parts.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84305</idno>
+            <idno type="STC">Wing E3907</idno>
+            <idno type="STC">Thomason E107_12</idno>
+            <idno type="STC">ESTC R20521</idno>
+            <idno type="EEBO-CITATION">99864640</idno>
+            <idno type="PROQUEST">99864640</idno>
+            <idno type="VID">116872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116872)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extract of all the passages from Hull, York, and Lincolnshire, being taken out of sundry letters, and sent by the last post. Being a true relation of His Maiesties proceedings in those parts.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Allen and Iohn Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Hull (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="royal_blazon">
+            <pb facs="tcp:116872:1"/>
+            <p>
+               <figure>
+                  <figDesc>Charles' royal blazon</figDesc>
+                  <p>C R</p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116872:1" rendition="simple:additions"/>
+            <p>AN EXTRACT Of all the Paſſages from HULL, YORK, and LINCOLNSHIRE, being taken out of ſundry Letters, and ſent by the laſt Poſt.</p>
+            <p>BEING A true relation of His MAIESTIES Proceedings in thoſe parts.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Allen</hi> and <hi>Iohn Bull.</hi> July 19. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter_excerpt">
+            <pb facs="tcp:116872:2"/>
+            <pb n="3" facs="tcp:116872:2"/>
+            <opener>
+               <salute>Kind Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thank you for your news of your pro<g ref="char:EOLhyphen"/>ceedings in the South, I pray continue the ſame, and I ſhall weekly write to you the news out of the North, if it may be conveyed ſafe; for we have ſo many in<g ref="char:EOLhyphen"/>tercepting Cavaleeres, or rather Cava<g ref="char:EOLhyphen"/>leeres upon the high way, that we are neither confident of our peace nor ſafety of perſons nor goods.</p>
+            <p>On Wedneſday the King was at <hi>Lincoln</hi> with the Prince, and the Lord <hi>Linſey,</hi> where was two peeces of Ordnance preſented to him by Sir <hi>Iames Stroobe,</hi> to make an attonement to procure pardon for killing one ſome 14 nights ſince. There was many of our County of <hi>Lincoln</hi> came in, but with no courage to ſight againſt <hi>Hull,</hi> and I am ſure they have no mind to ſtarve <hi>Hull;</hi> for there is divers <hi>Hull</hi> people comes to our Town dai<g ref="char:EOLhyphen"/>ly, and they are heartily welcome to us, and we ſhall do our beſt to releeve them.</p>
+            <p>When all the people came together to the King at <hi>Lincoln,</hi> there was not one in twenty had ſo much as a Sword about them; you may perceive by that, they came not to fight. The King deſired to be excuſed of his not ſpeaking to them, for they ſhould have his mind in paper. He bid them not to feare for he would not make their County the ſeat of Warre, but as I remem<g ref="char:EOLhyphen"/>ber
+<pb n="4" facs="tcp:116872:3"/>it was ſo declared to the County of <hi>Yorke:</hi> but we heare they are now drawn forth upon paine of death, and forced with Swords and Piſtols to ſtand in danger of their lives.</p>
+            <p>Sir <hi>Iohn Hothams</hi> ſonne, had a Horſe taken from his man of good valew, being at his houſe, eight miles from <hi>Hull</hi> he hath ſince got ſatisfaction and hath taken 8 Cavaleeres with their Horſes, one Horſe amongſt them worth foure ſcore pound, and amongſt them a Gentleman that did owe his father two thouſand pounds, he hath layd out theſe foure yeeres to catch him, but could never lite on him till now, and now he hath him in ſafe cuſtody; he might well fight againſt Sir <hi>Iohn,</hi> for he had no mind to pay his money.</p>
+            <p>We have the Countrey people come to us every night, and tell us of the proceedings of the Kings army, the Lord <hi>Newport</hi> was over head and cares that night they burnt our Mils, and had much adoe to eſcape drowning: they came againe the third night to burne our other Mils, but our Ordnance was ſo fierce upon them there, that they runne away. We heare of 5. of Captaine <hi>Duncombs</hi> Souldiers ſlaine.</p>
+            <p>We ſent out a ſmall Pinnace towards <hi>Becton</hi> where eſpying ſome of the Cavalceres that would ſtarve us, we ſhot two or three Guns amongſt them; and now we are reſolved to kill them if we can, that would ſtarve us if they can.</p>
+         </div>
+         <div type="letter_excerpt">
+            <pb n="5" facs="tcp:116872:3"/>
+            <p>SIr, in much haſt I have writ two words of that I have ſeen, God be thanked our Town is ſafe and ſtrong, and if ſupplies come from the Parlia<g ref="char:EOLhyphen"/>ment we feare not for all their words, although yeſternight it ſhould have been fired by ſome ill diſpoſed in our Town, but God be thanked we are all in generall in an union, and are reſolved to fight it to the laſt man. We pack out knowes daily which makes the reſt conforme, it is marvelous to one to ſee all men in our Towne muſter and fight, that was on the other ſide before. Yeſter night there was divers before our Town, but the great Guns and Muskets did ſing ſweet<g ref="char:EOLhyphen"/>ly on them; we are daily yet <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eere victory, for Captain <hi>Paget</hi> that let the <hi>Providence</hi> looſe for want of care, hath now playd his part, and redeemed his credit, in taking a Hoy and three great Guns that we agoing to be plan<g ref="char:EOLhyphen"/>ted on Cuntolpher ſide for ſtopping paſſage by Water to us and did beat all the Musqueters, and made them runne aſhore by the Weſt, to fly his Ordnance; our Mils was three of them burnt one night, which is the worſt they have done us, but I believe it coſt them deere, for the next morning ſome of their ſwords, bri<g ref="char:EOLhyphen"/>dies and ſaddles were got from them by the way, being full of pats beds; the Countrey doth loath them but that they conſtrain them to fight, and with ſpader to worke for them, to make Forts. I cannot have leave to enlarge it further, Farewell.</p>
+            <closer>
+               <dateline>
+                  <date>15 <hi>July</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter_excerpt">
+            <pb n="6" facs="tcp:116872:4"/>
+            <p>
+               <seg rend="decorInit">S</seg>Aturday, we heare that Sir <hi>Iohn Penning<g ref="char:EOLhyphen"/>ton</hi> is gon to Sea, <hi>Pollard, Barkley, Aſh<g ref="char:EOLhyphen"/>burncham</hi> to <hi>Holland,</hi> yeſternight one Maſter <hi>Reeve</hi> had his windowes all broke, and the pillers of his windowes cut by Souldiers in <hi>Walmegate;</hi> yeſter<g ref="char:EOLhyphen"/>night the King was exceeding ſerious which ſome of the Nobility, the Lord Keeper, and the Lord <hi>Bankes,</hi> to day a Declaration came out concerning his Majeſties intentions.</p>
+            <p>Sunday, about two a clock in the morning, the Trum<g ref="char:EOLhyphen"/>pets ſounded out 200 Horſe ſpeedily to horſe away, at five a clocke I heard of it, about 8 a clock 200 rid away compleatly armed, at noone a command came from the King to the Lord Major, for horſes for 300 foote becauſe they had haſt, and could not march faſt enough on foote, upon a Common they call <hi>Knaiſ<g ref="char:EOLhyphen"/>mire</hi> was driven ſome 200 Horſe, another they call <hi>Tinghall</hi> was driven about 100 horſe, at one a clock out Belman cryed that all which had Horſes in thoſe pa<g ref="char:EOLhyphen"/>ſtures ſhould goe with bridles and ſadles thither, or elſe if bridles and ſadles were not brought when the Horſes came back, we were to pay for the bridles, and ſadles as they coſt, to night they went away, a Ship within 10 miles of <hi>Hull</hi> run a ſhore with proviſion with came from <hi>Holland,</hi> which we heare had like to have been taken; Mr. <hi>Murrey</hi> being one was in it.</p>
+            <p>Munday, we heare L. <hi>Digby</hi> is come to <hi>York,</hi> and hath been at <hi>Hull</hi> 3 dayes in a mariners coate all tarre and pitch, this day 300 foote and 100 horſe are preſently
+<pb n="7" facs="tcp:116872:4"/>commanded to be at an howers warning. Alſo the Re<g ref="char:EOLhyphen"/>giments of Sir <hi>Wlliam Pennyman,</hi> and Sir <hi>Thomas Mettam,</hi> are commanded on paine of death preſently to goe forward, we heare that 6 Regiments ſhall incompaſſe <hi>Hull</hi> ſuddenly. the high Sheriffe was on his knees to beg that he might perſwade with Sir <hi>Iohn Hotham</hi> to yeild the Town ere it was beſieged, he was confident to perſwade him, which his Majeſty conſented to, this day there was about 300 horſe brought out of adjoy<g ref="char:EOLhyphen"/>ning Towns, and our City, for more foote to rid, and a<g ref="char:EOLhyphen"/>bout 300 horſe more went with the<g ref="char:cmbAbbrStroke">̄</g>; Colonell <hi>Ashburn<g ref="char:EOLhyphen"/>ham</hi> with Sir <hi>Edward Stradling,</hi> and another was taken in a boate on Humber when the Ship came in that the trouble was about, the Ship they call the <hi>Pro<g ref="char:EOLhyphen"/>vidence,</hi> ſo theſe are with Sir <hi>Iohn Hotham. Lincolnſhire</hi> we heare and believe is ſecured for the King.</p>
+            <p>Tueſday, there was aboundance going towards <hi>Hull,</hi> both horſe and foote, only a few leſt at Court, we heare that Sir <hi>Iohn Hotham</hi> made tryall of his fluces to let out the water, and it would not doe, his Majeſty goes on Fryday to <hi>Hull,</hi> and intends to have <hi>Hull</hi> ere hee come back as we are informed, many aſperſions are reported of Mr. <hi>Pim</hi> that except 3 voices, he had been caſt out of the houſe, that the <hi>Militia</hi> by the Parliament is yeilded to his Majeſty on condition, that he call in his Commiſ<g ref="char:EOLhyphen"/>ſion for Array, Serjeant major <hi>Duncombe</hi> is made Knight and Barronet; alſo we heare to day that one of kindred (I thinke brother in Law) to ſir <hi>Iohn Hotham,</hi> was by intreaty allowed to perſwade him to yeild the towne, but I heare he ſent a reſolute letter back that he would not.</p>
+            <p>Wenſday morning at 4 a clock, the King rid with a few attendants to <hi>Paule,</hi> and came back about 5 a clock,
+<pb n="8" facs="tcp:116872:5"/>out of the ſhip which is for his Majeſty, 34 peeces we heare are mounted neere <hi>Paule,</hi> with 2 other huge <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces. Five miles from <hi>Hull,</hi> they have taken a flax ſhip, and out thereof 4 pieces of Ordnance, and let the ſhip <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Alſo a ſhip with coales and one with cheeſe; this they report, but unleſſe at night ſhips cannot paſſe them. <hi>Lincolneſhire</hi> ſhore is planted with Souldiers for the King, that ere long tis thought the men of <hi>Hull</hi> will ſcarce got victualls, or ſupplies.</p>
+            <p>To day its reported that one Mr. <hi>Thorneton</hi> for <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expelled <hi>Hull,</hi> being upon this expedition, is <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Captaine of a troope of horſe, who yeſterday (Or this morning) with his ſouldiers, and to <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laby</hi> (whether with, or without commiſſion, I know not) he plund<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and pillaged Lieutenant Colonell <hi>Legards</hi> houſe, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearing this newes at <hi>Hull, Legard</hi> plundred with <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company, and pillaged <hi>Thornetons</hi> houſes in the Town, at which newes <hi>Thorneton</hi>) and his troop come <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and cleares the fields of his ſheepe, horſe, kine and o<g ref="char:EOLhyphen"/>ther Cattell: Captaine <hi>Joſſard</hi> with 60 musk <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comes by a compaſſe upon them, and they muſt <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fight or leave their prey, but they run away, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Ieffard,</hi> Captaine <hi>Thorneton</hi> I will ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd away my <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dier<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſend you away yours, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gave no heed to theſe vain words, but they al <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we heare that ſir <hi>Iohn</hi> hath drawne a writing, and <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that will ſtand by him in the Towne are to under <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it, 300 have already done, what intention hath how) to deale with the other is not yet known.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
